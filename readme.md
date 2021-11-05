@@ -33,10 +33,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ```bash
 # Clone o repositório
-git clone 
+git clone https://github.com/Gabriek0/task-list
 
 # Mude para o diretório do projeto
-cd 
+cd task-list
 
 # Instale as dependências
 yarn
